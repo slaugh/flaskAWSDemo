@@ -1,0 +1,6 @@
+*.iml
+**/plugins/
+*plugins
+**/plugins
+**plugins/
+*plugins*
