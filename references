@@ -1,6 +1,13 @@
+The following references were used in creating this application stack
+
 Dockerize your flask app:
 https://runnable.com/docker/python/dockerize-your-flask-application
 
 Terraform Reference:
 https://blog.codeship.com/shared-resources-for-your-terraformed-docker-environment-on-aws/
+
+Gitignore Rules:
+https://www.atlassian.com/git/tutorials/saving-changes/gitignore
+
+
 
